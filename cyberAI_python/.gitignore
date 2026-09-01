@@ -1,0 +1,29 @@
+# 环境与密钥
+.env
+.venv/
+venv/
+
+# 数据库
+*.db
+
+# 打包产物
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 记忆数据
+data/
